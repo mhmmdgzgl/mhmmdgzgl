@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mhmmdgzgl
 - 👀 I’m interested in programming languages
-- 🌱 I’m currently learning asp.net mvc 
+- 🌱 I’m currently learning .net core and mvc 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
